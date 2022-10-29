@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.welcome-text {
+    margin-bottom: 0;
+    color: white;
+}
+
+.chart {
+    margin: 50px;
+}
+
+.table-container {
+    background-color: #001529;
+    padding: 50px;
+}
